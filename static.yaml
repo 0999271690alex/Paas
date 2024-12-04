@@ -1,0 +1,6 @@
+type: static
+name: My Simple Website
+static_publish_path: /
+build:
+  commands:
+    - echo "No build step needed"
